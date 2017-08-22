@@ -1,0 +1,10 @@
+c74baa242a20793cffc254e3b9700cf2 *DESCRIPTION
+2f008620119eef2ab721ab08fff778eb *NAMESPACE
+d262e7b435d9b8f4035beb32da4ebe50 *R/RcppExports.R
+e38fe4f5cf69bd4f62184e3c50860350 *R/findparameter.r
+4944be4b953b5a5ba50680713ff377c9 *R/rejectprob.r
+115d507268efd660436f49756aebce01 *man/findparameter.Rd
+6581620ea4803e314d02be19a2fa7665 *man/rejectprob.Rd
+66463a75e54634059cb82a351f3330d0 *src/RcppExports.cpp
+7c22b1b500cab25872924e218f1645f5 *src/c.c
+478c27d78b3904992019f7c29253ff7b *src/code.cpp
